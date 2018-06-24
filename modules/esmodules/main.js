@@ -1,3 +1,3 @@
-import ship from './shipping';
+import {ship} from './shipping.js';
 
 ship();
