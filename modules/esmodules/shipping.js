@@ -1,5 +1,5 @@
 export function ship() {
-    console.log("Shipping products...");
+    console.log("Shipping products!");
 }
 
 function calculateShippingCost(){
